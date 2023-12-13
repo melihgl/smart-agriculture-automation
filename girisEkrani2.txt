@@ -1,6 +1,6 @@
 Imports System.Data.SqlClient
 Public Class GirisEkrani2
-    Dim connection As New SqlConnection("Data Source=.\melih;Initial Catalog=AkilliTarimOtomasyonu;Integrated Security=True")
+    Dim connection As New SqlConnection("Data Source=BURAYISANSURLUYORUM;Initial Catalog=AkilliTarimOtomasyonu;Integrated Security=True")
     Private Sub girisDugmesi_Click(sender As Object, e As EventArgs) Handles girisDugmesi.Click
         If String.IsNullOrWhiteSpace(txtkullaniciAdi.Text) OrElse String.IsNullOrWhiteSpace(txtkullaniciSifresi.Text) Then
             MessageBox.Show("Kullanıcı adı ve şifre boş olamaz!", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning)
