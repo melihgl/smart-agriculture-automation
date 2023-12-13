@@ -1,8 +1,8 @@
 ![Adsız](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4068c444-25f7-459f-86e5-f10bd6beb1a0)
 
-I am sharing the codes of the login form and information screen I created for my Smart Agriculture project. I will add new codes over time. VB.net language and MS SQL Server were used. Thanks.
+I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. VB.net language and MS SQL Server were used. Thanks.
 
-Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. VB.net dili ve MS SQL Server kullandım. Yaptığım ilk giriş ekranında sıkıntılar yaşadım. O nedenle adı girisEkrani2. Yani 1 artık yok :D O nedenle bu duruma şaşırmayın lütfen :D Projemi paylaştığım başka diğer yerler ise şunlardır:
+Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. _**VB.net**_ dili ve _**MS SQL Server**_ kullandım. Yaptığım ilk giriş ekranında sıkıntılar yaşadım. O nedenle adı girisEkrani2. Yani 1 artık yok :D O nedenle bu duruma şaşırmayın lütfen :D Projemi paylaştığım başka diğer yerler ise şunlardır:
 
 [VB.Net Kullanarak, Visual Studio’da Veri Tabanı İşlemleri Yapmak](https://medium.com/@melihgul/vb-net-kullanarak-visual-studioda-veri-taban%C4%B1-ms-sql-server-i%CC%87%C5%9Flemleri-yapmak-22f0f5f5d056) 
 
@@ -10,7 +10,7 @@ Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının
 
 [Melih Botanik](https://www.melihbotanik.melihgul.com/index.php/12-12-2023-te-sundugum-akilli-tarim-kodlarim)
 
-Proje zamanla ilerleyecektir. Şu an henüz, emekleme aşamasındayım. Bu proje, Akıllı Tarım Otomasyonu, benim için oldukça önemli. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde) deneyeceğim. Şimdilik ilk adımlarımı atıyorum.
+Proje zamanla ilerleyecektir. Şu an henüz, emekleme aşamasındayım. Bu proje, Akıllı Tarım Otomasyonu, benim için oldukça önemli. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim. Şimdilik ilk adımlarımı atıyorum.
 
 Kodlamayla kalın, iyi günler, teşekkürler.
 Melih Gül
