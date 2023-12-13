@@ -8,7 +8,7 @@ https://medium.com/@melihgul/try-catch-bloklar%C4%B1-kullanarak-sql-ba%C4%9Flant
 
 https://www.melihbotanik.melihgul.com/index.php/12-12-2023-te-sundugum-akilli-tarim-kodlarim
 
-Proje zamanla ilerleyecektir. Şu an henüz, emekle aşamasındayım. Bu proje, Akıllı Tarım Otomasyonu, benim için oldukça önemlidir. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi kendi tarlamda deneyeceğim. Şimdilik ilk adımlarımı atıyorum.
+Proje zamanla ilerleyecektir. Şu an henüz, emekleme aşamasındayım. Bu proje, Akıllı Tarım Otomasyonu, benim için oldukça önemli. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde) deneyeceğim. Şimdilik ilk adımlarımı atıyorum.
 
 Kodlamayla kalın, iyi günler, teşekkürler.
 Melih Gül
