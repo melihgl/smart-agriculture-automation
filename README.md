@@ -1,6 +1,6 @@
 I am sharing the codes of the login form and information screen I created for my Smart Agriculture project. I will add new codes over time. VB.net language and MS SQL Server were used. Thanks.
 
-Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. VB.net dili ve MS SQL Server kullanılmıştır. Yaptığım ilk giriş ekranında sıkıntılar yaşadım. O nedenle adı girisEkrani2. Yani 1 artık yok :D O nedenle bu duruma şaşırmayın lütfen :D Projemi paylaştığım başka diğer yerler ise şunlardır:
+Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. VB.net dili ve MS SQL Server kullandım. Yaptığım ilk giriş ekranında sıkıntılar yaşadım. O nedenle adı girisEkrani2. Yani 1 artık yok :D O nedenle bu duruma şaşırmayın lütfen :D Projemi paylaştığım başka diğer yerler ise şunlardır:
 
 https://medium.com/@melihgul/vb-net-kullanarak-visual-studioda-veri-taban%C4%B1-ms-sql-server-i%CC%87%C5%9Flemleri-yapmak-22f0f5f5d056 
 
@@ -8,7 +8,7 @@ https://medium.com/@melihgul/try-catch-bloklar%C4%B1-kullanarak-sql-ba%C4%9Flant
 
 https://www.melihbotanik.melihgul.com/index.php/12-12-2023-te-sundugum-akilli-tarim-kodlarim
 
-Proje zamanla ilerleyecektir. Şu an henüz, emekle aşamasındayım. Bu proje, Akıllı Tarım Otomasyonunu, benim için oldukça önemlidir. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi kendi tarlamda deneyeceğim.
+Proje zamanla ilerleyecektir. Şu an henüz, emekle aşamasındayım. Bu proje, Akıllı Tarım Otomasyonu, benim için oldukça önemlidir. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi kendi tarlamda deneyeceğim. Şimdilik ilk adımlarımı atıyorum.
 
 Kodlamayla kalın, iyi günler, teşekkürler.
 Melih Gül
