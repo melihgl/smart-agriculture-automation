@@ -2,7 +2,9 @@
 
 I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. VB.net language and MS SQL Server were used. Thanks.
 
-Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. _**VB.net**_ dili ve _**MS SQL Server**_ kullandım. Yaptığım ilk giriş ekranında sıkıntılar yaşadım. O nedenle adı girisEkrani2. Yani 1 artık yok :D O nedenle bu duruma şaşırmayın lütfen :D Projemi paylaştığım başka diğer yerler ise şunlardır:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. _**VB.net**_ dili ve _**MS SQL Server**_ kullandım. Projemi paylaştığım başka diğer web siteleri ise şunlar:
 
 [VB.Net Kullanarak, Visual Studio’da Veri Tabanı İşlemleri Yapmak](https://medium.com/@melihgul/vb-net-kullanarak-visual-studioda-veri-taban%C4%B1-ms-sql-server-i%CC%87%C5%9Flemleri-yapmak-22f0f5f5d056) 
 
