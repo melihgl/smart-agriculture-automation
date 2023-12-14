@@ -1,10 +1,10 @@
 ![Adsız](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4068c444-25f7-459f-86e5-f10bd6beb1a0)
 
-I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. VB.net language and MS SQL Server were used. Thanks.
+I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. VB.Net language and MS SQL Server were used. Thanks.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. _**VB.net**_ dili ve _**MS SQL Server**_ kullandım. Projemi paylaştığım başka diğer web siteleri ise şunlar:
+Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. _**VB.Net**_ dili ve _**MS SQL Server**_ kullandım. Projemi paylaştığım başka diğer web siteleri ise şunlar:
 
 [VB.Net Kullanarak, Visual Studio’da Veri Tabanı İşlemleri Yapmak](https://medium.com/@melihgul/vb-net-kullanarak-visual-studioda-veri-taban%C4%B1-ms-sql-server-i%CC%87%C5%9Flemleri-yapmak-22f0f5f5d056) 
 
@@ -12,7 +12,7 @@ Akıllı Tarım projem için oluşturduğum giriş formunun ve bilgi ekranının
 
 [Melih Botanik](https://www.melihbotanik.melihgul.com/index.php/12-12-2023-te-sundugum-akilli-tarim-kodlarim)
 
-Proje zamanla ilerleyecektir. Şu an henüz, emekleme aşamasındayım. Bu proje, Akıllı Tarım Otomasyonu, benim için oldukça önemli. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim. Şimdilik ilk adımlarımı atıyorum.
+Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dökümantasyon belgelerini sizlerle paylaşacağım. Şu an henüz, emekleme aşamasındayım. Bu proje, benim için oldukça önemli. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim.
 
 Kodlamayla kalın, iyi günler, teşekkürler.
 Melih Gül
