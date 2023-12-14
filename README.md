@@ -12,9 +12,9 @@ _**Akıllı Tarım**_ projem için oluşturduğum giriş formunun ve bilgi ekran
 
 [Melih Botanik](https://www.melihbotanik.melihgul.com/index.php/12-12-2023-te-sundugum-akilli-tarim-kodlarim)
 
-Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dökümantasyon belgelerini sizlerle paylaşacağım. Şu an, emekleme aşamasındayım. Bu proje, benim için oldukça önemli. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim.
+Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dökümantasyon belgelerini sizlerle paylaşacağım. Henüz, projenin %1'i bile bitmiş değil. Bu proje, benim için oldukça önemli. Yeteri kadar ilerleyebildiğimde, proje için gerekli olan elektroniği de satın alıp projemi _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim.
 
-Kodlamayla kalın, iyi günler, teşekkürler.
+Kodlamayla kalın, iyi günler, teşekkürler. <br/>
 Melih Gül
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/>
