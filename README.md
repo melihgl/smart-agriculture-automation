@@ -14,7 +14,7 @@ Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belg
 
 ![girisEkraniForm](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/67db978a-23e7-4877-8a49-27638c78d1c2)
 ![bilgiEkraniForm](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/acf19bf9-71b5-4b02-90f3-a4e3455c871f)
-![Adsız](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/1af0c458-4fc7-4d54-9fb8-ae951c100301)
+![Adsiz2](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4d55c354-29ac-407e-b3b0-e1b641c07922)
 
 Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaşmıştım. Süreç biraz sezgisel ilerlese de altından kalkabileceğime inancım tam...<br/>
 Kodlamayla kalın, iyi günler, teşekkürler. <br/>
