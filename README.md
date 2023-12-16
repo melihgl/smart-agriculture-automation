@@ -27,6 +27,12 @@ Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belg
 - Ekle, Düzenle, Temizle, Sil, Çıkış düğmelerine yazdığım kodlarla temel veri tabanı işlemlerini Visual Studio'da gerçekleştirdim.
 - SQL injection'dan korunmak için try - catch blokları kullandım.
 
+**2. Bilgi Formunda Hedefim (henüz tamamlamadım):**
+Temel veri tabanı işlemlerinin yanında, eklediğim verilerle ilgili tarihsel bir sıralama yapmak. Bunu created_date ve updated_date kolonlarıyla gerçekleştireceğim. Böylece verileri analiz edebilmeyi hedefliyorum. 
+
+**3. Bilgi Formunda Hedefim (henüz başlamadım):**
+Bu formda verilerin analizini yapmaya çalışacağım. Şimdilik zihnimde bu şekilde tasarlıyorum. Nasıl yapacağımı henüz bilmiyorum. Yaptıkça burada, yaptıklarımı güncelleyeceğim.
+
 ![ge](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/74cbc9e7-bc28-4cf8-ae7f-73ec5c782d85)
 ![be1](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/de133e23-a079-45bf-afaa-083cda6accd9)
 ![Adsiz2](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4d55c354-29ac-407e-b3b0-e1b641c07922)
