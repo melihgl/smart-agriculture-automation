@@ -41,4 +41,7 @@ Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını y
 Kodlamayla kalın, iyi günler, teşekkürler. <br/>
 Melih Gül
 
+Son olarak tabloları arasındaki ilişkileri de paylaşıyorum:
+![14](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/c4ce700d-be48-4541-92e2-30483380a416)
+
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/>
