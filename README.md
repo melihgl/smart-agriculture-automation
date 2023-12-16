@@ -12,6 +12,12 @@ _**Akıllı Tarım Otomasyonu**_ için oluşturduğum giriş formunun ve bilgi e
 
 Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belgelerini sizlerle paylaşacağım. Henüz, projenin %1'i bile bitmiş değil. Yeteri kadar ilerleyebildiğimde, otomasyon için gerekli olan elektroniği satın alıp _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim. Şu günlerde 3. formu hazırlıyorum. Bu formda, TOPRAK, ELEMENT, GÜBRE, HAVA DURUMU, SU, BİTKİ GELİŞİMİ, HASTALIK VERİLERİNİ, veri tabanından çekeceğim. 4. bir form daha oluşturup bu verilerle ilgili sonuçları da orada değerlendirebilirim. Ancak şimdilik 3. forma odaklandım.
 
+PROJEDE HEDEFLERİM:
+- Temel CRUD işlemlerini yapabilmek.
+- Tarladaki bütün değişimleri eş zamanlı olarak sensörlerden toplayıp veri tabanında tutabilmek.
+- Verilerle ilgili analiz yapıp, tarlanın şimdiki ve gelecekteki sorunları hakkında çıkarımlar yapabilmek.
+- Tarladan en iyi verimi alabilmek için, yazılım ve donanımsal olarak yüksek işlevli bir ürün ortaya çıkarmak.
+
 ![ge](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/74cbc9e7-bc28-4cf8-ae7f-73ec5c782d85)
 ![be1](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/de133e23-a079-45bf-afaa-083cda6accd9)
 ![Adsiz2](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4d55c354-29ac-407e-b3b0-e1b641c07922)
