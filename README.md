@@ -1,5 +1,3 @@
-![Adsız](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4068c444-25f7-459f-86e5-f10bd6beb1a0)
-
 I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. _**VB.Net**_ language and _**MS SQL Server**_ were used. Thanks.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
