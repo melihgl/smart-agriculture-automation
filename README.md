@@ -16,7 +16,7 @@ Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belg
 ![bilgiEkraniForm](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/acf19bf9-71b5-4b02-90f3-a4e3455c871f)
 ![Adsız](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/1af0c458-4fc7-4d54-9fb8-ae951c100301)
 
-Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaştmıştım.<br/>
+Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaşmıştım. Süreç biraz sezgisel ilerlese de altından kalkabileceğime inancım tam...<br/>
 Kodlamayla kalın, iyi günler, teşekkürler. <br/>
 Melih Gül
 
