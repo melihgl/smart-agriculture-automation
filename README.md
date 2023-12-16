@@ -12,7 +12,7 @@ _**Akıllı Tarım Otomasyonu**_ için oluşturduğum giriş formunun ve bilgi e
 
 Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belgelerini sizlerle paylaşacağım. Henüz, projenin %1'i bile bitmiş değil. Yeteri kadar ilerleyebildiğimde, otomasyon için gerekli olan elektroniği satın alıp _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim. Şu günlerde 3. formu hazırlıyorum. Bu formda, TOPRAK, ELEMENT, GÜBRE, HAVA DURUMU, SU, BİTKİ GELİŞİMİ, HASTALIK VERİLERİNİ, veri tabanından çekeceğim. 4. bir form daha oluşturup bu verilerle ilgili sonuçları da orada değerlendirebilirim. Ancak şimdilik 3. forma odaklandım.
 
-PROJEDE HEDEFLERİM:
+**PROJEDE HEDEFLERİM:**
 - Temel CRUD işlemlerini yapabilmek.
 - Tarladaki bütün değişimleri eş zamanlı olarak sensörlerden toplayıp veri tabanında tutabilmek.
 - Verilerle ilgili analiz yapıp, tarlanın şimdiki ve gelecekteki sorunları hakkında çıkarımlar yapabilmek.
