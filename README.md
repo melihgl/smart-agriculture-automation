@@ -12,12 +12,12 @@ _**Akıllı Tarım Otomasyonu**_ için oluşturduğum giriş formunun ve bilgi e
 
 Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belgelerini sizlerle paylaşacağım. Henüz, projenin %1'i bile bitmiş değil. Yeteri kadar ilerleyebildiğimde, otomasyon için gerekli olan elektroniği satın alıp _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim. Şu günlerde 3. formu hazırlıyorum. Bu formda, TOPRAK, ELEMENT, GÜBRE, HAVA DURUMU, SU, BİTKİ GELİŞİMİ, HASTALIK VERİLERİNİ, veri tabanından çekeceğim. 4. bir form daha oluşturup bu verilerle ilgili sonuçları da orada değerlendirebilirim. Ancak şimdilik 3. forma odaklandım.
 
-Kodlamayla kalın, iyi günler, teşekkürler. <br/>
-Melih Gül
-
 ![girisEkraniForm](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/67db978a-23e7-4877-8a49-27638c78d1c2)
 ![bilgiEkraniForm](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/acf19bf9-71b5-4b02-90f3-a4e3455c871f)
 ![Adsız](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/1af0c458-4fc7-4d54-9fb8-ae951c100301)
-Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaştmıştım.
+
+Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaştmıştım.<br/>
+Kodlamayla kalın, iyi günler, teşekkürler. <br/>
+Melih Gül
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/>
