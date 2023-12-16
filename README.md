@@ -16,7 +16,7 @@ Kodlamayla kalın, iyi günler, teşekkürler. <br/>
 Melih Gül
 
 ![girisEkraniForm](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/67db978a-23e7-4877-8a49-27638c78d1c2)
-
 ![bilgiEkraniForm](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/acf19bf9-71b5-4b02-90f3-a4e3455c871f)
+![Adsız](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/1af0c458-4fc7-4d54-9fb8-ae951c100301)
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/>
