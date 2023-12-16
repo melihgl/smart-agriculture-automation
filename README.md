@@ -18,6 +18,15 @@ Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belg
 - Verilerle ilgili analiz yapıp, tarlanın şimdiki ve gelecekteki sorunları hakkında çıkarımlar yapabilmek.
 - Tarladan en iyi verimi alabilmek için, yazılım ve donanımsal olarak yüksek işlevli bir ürün ortaya çıkarmak.
 
+**Giriş Formunda Yaptıklarım:**
+- Veri Tabanına kayıtlı olan Kullanıcı ad ve şifrelerini, Visual Studio'da yazabilmek için gerekli SQL bağlantısını yaptım.
+- Progress Bar'ın çalışması için gerekli kodları yazdım.
+
+**1. Bilgi Formunda Yaptıklarım:**
+- Veri tabanıyla bağlantı sağladım.
+- Ekle, Düzenle, Temizle, Sil, Çıkış düğmelerine yazdığım kodlarla temel veri tabanı işlemlerini Visual Studio'da gerçekleştirdim.
+- SQL injection'dan korunmak için try - catch blokları kullandım.
+
 ![ge](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/74cbc9e7-bc28-4cf8-ae7f-73ec5c782d85)
 ![be1](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/de133e23-a079-45bf-afaa-083cda6accd9)
 ![Adsiz2](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4d55c354-29ac-407e-b3b0-e1b641c07922)
