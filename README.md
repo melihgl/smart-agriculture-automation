@@ -47,6 +47,7 @@ Tablolar arasındaki ilişkilerle ilgili bilgiler aşağıdadır. Bu ilişkiler 
 ![12](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/e734f039-475a-44ce-9cf7-9db7b0859936)
 ![13](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/8addfaec-7b0e-4982-a3c0-392eb56549dc)
 
-Kodlamayla kalın, iyi günler, teşekkürler. <br/>
-Melih Gül
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kodlamayla kalın, iyi günler, teşekkürler.<br/>
+Melih Gül<br/>
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/>
