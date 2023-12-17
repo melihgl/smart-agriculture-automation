@@ -10,14 +10,14 @@ _**Akıllı Tarım Otomasyonu**_ için oluşturduğum giriş formunun ve bilgi e
 [Try Catch Blokları Kullanarak SQL Bağlantısını Güvenli Hale Getirmek](https://medium.com/@melihgul/try-catch-bloklar%C4%B1-kullanarak-sql-ba%C4%9Flant%C4%B1s%C4%B1n%C4%B1-g%C3%BCvenli-hale-getirmek-vb-net-503c29cbc7cc) <br/>
 [Melih Botanik](https://www.melihbotanik.melihgul.com/index.php/12-12-2023-te-sundugum-akilli-tarim-kodlarim)
 
-**Kodların nasıl çalıştırılacağına dair açıklama:** <br/>
-Projeyi Visual Studio'da çalıştırabilmek için, bilgisayarınızda Visual Studio'nun kaynak kodlarının bulunduğu dosyaya, yukarıdaki VB.Net dosyalarını indirmeniz gerekmektedir. Bu dosya belgelerim klasöründe ya da C'nin içinde olabilir. Veri tabanı dosyalarını da aynı şekilde MS SQL Server'ın kaynak dosyalarına atmalısınız.* <br/>
+**Kodların Nasıl Çalıştırılacağına dair Açıklama:** <br/>
+Projeyi, Visual Studio'da çalıştırabilmek için, bilgisayarınızda Visual Studio'nun kaynak kodlarının bulunduğu dosyaya, yukarıdaki VB.Net dosyalarını indirmeniz gerekmektedir. Bu dosya belgelerim klasöründe ya da C'nin içinde olabilir. Veri tabanı dosyalarını da aynı şekilde MS SQL Server'ın kaynak dosyalarına atmalısınız.* <br/>
 ***Not:** Güvenlik endişelerim sebebiyle şimdilik veri tabanı dosyasını paylaşmıyorum.
 
-**Projenin Genel Durumu:** <br/>
+**Çalışmamın Genel Durumu:** <br/>
 Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belgelerini sizlerle paylaşacağım. Henüz, projenin %1'i bile bitmiş değil. Yeteri kadar ilerleyebildiğimde, otomasyon için gerekli olan elektroniği satın alıp _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim. Şu günlerde 3. formu hazırlıyorum. Bu formda, TOPRAK, ELEMENT, GÜBRE, HAVA DURUMU, SU, BİTKİ GELİŞİMİ, HASTALIK VERİLERİNİ, veri tabanından çekeceğim. 4. bir form daha oluşturup bu verilerle ilgili sonuçları da orada değerlendirebilirim. Ancak şimdilik 3. forma odaklandım.
 
-**PROJEDE HEDEFLERİM:**
+**Çalışmamda Hedeflerim:**
 - Temel CRUD işlemlerini yapabilmek.
 - Tarladaki bütün değişimleri eş zamanlı olarak sensörlerden toplayıp veri tabanında tutabilmek.
 - Verilerle ilgili analiz yapıp, tarlanın şimdiki ve gelecekteki sorunları hakkında çıkarımlar yapabilmek.
@@ -45,14 +45,14 @@ Bu formda verilerin analizini yapmaya çalışacağım. Şimdilik zihnimde bu ş
 Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaşmıştım. Süreç biraz sezgisel ilerlese de altından kalkabileceğime inancım tam...  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Tablolar arasındaki ilişkilerle ilgili bilgiler aşağıdadır. Bu ilişkiler ya da tablolar zamanla değişebilir. Örneğin Element ve Kullanıcı tablolarını proje ilerlerken oluşturdum. Kullandığım yazılım mimarisi **Code and Fix** olduğundan, proje bu şekilde ilerliyor. Tek başıma yaptığım bir projede en uygun modelin bu olacağını düşündüm. Çünkü bu projede, benim için önemli olan **en hızlı bir biçimde projeyi çalışır hale getirmektir.** İleride yapacağım projelerde daha farklı modeller kullanabilirim.<br/>
+Tablolar arasındaki ilişkilerle ilgili bilgiler aşağıdadır. Bu ilişkiler ya da tablolar zamanla değişebilir. Örneğin Element ve Kullanıcı tablolarını proje ilerlerken oluşturdum. Kullandığım yazılım mimarisi **Code and Fix** olduğundan, proje bu şekilde ilerliyor. Tek başıma yaptığım bir çalışmada en uygun modelin bu olacağını düşündüm. Çünkü bu projede, benim için önemli olan **en hızlı bir biçimde projeyi çalışır hale getirmektir.** İleride yapacağım çalışmalarda daha farklı modeller kullanabilirim.<br/>
 ![14](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/c4ce700d-be48-4541-92e2-30483380a416)
 ![12](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/e734f039-475a-44ce-9cf7-9db7b0859936)
 ![13](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/8addfaec-7b0e-4982-a3c0-392eb56549dc)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **KAYNAKLAR** <br/>
-Son olarak, proje boyunca faydalandığım, Trakya Üniversitesi Bilgisayar Programcılığı bölümünde almış olduğum dersler:
+Son olarak, çalışmam boyunca faydalandığım, Trakya Üniversitesi Bilgisayar Programcılığı bölümünde almış olduğum dersler:
 - Görsel Programlama I
 - Görsel Programlama II
 - Veri Tabanı ve Yönetimi
@@ -61,7 +61,7 @@ Son olarak, proje boyunca faydalandığım, Trakya Üniversitesi Bilgisayar Prog
 - Sistem Analizi ve Tasarımı
 - Grafik ve Animasyon I (Photoshop) <br/>
 
-Diğer derslerin de katkısı olmuştur. Ancak en çok bu derslerde öğrendiğim bilgileri kullandım. Bunun yanında hem elektronik hem de basılı farklı kaynaklardan da yararlandım. İlerleyen süreçte bu kaynakları da paylaşacağım. Şimdilik akıllı tarımla alakalı üç web sitesini burada belirtebilirim. Bu projeler, konumla alakalı olarak oldukça kapsamlı, önemlidir. Zamanla onlardan faydalanmaya devam edeceğim: <br/>
+Diğer derslerin de katkısı olmuştur. Ancak en çok bu derslerde öğrendiğim bilgileri kullandım. Bunun yanında hem elektronik hem de basılı farklı kaynaklardan da yararlandım. İlerleyen süreçte bu kaynakları da paylaşacağım. Şimdilik akıllı tarımla alakalı üç web sitesini burada belirtebilirim. Bu çalışmalar, konumla alakalı olarak oldukça kapsamlı, önemlidir. Zamanla onlardan faydalanmaya devam edeceğim: <br/>
 
 [Farmery - Opensource Smart Farm Platform](https://www.hackster.io/dmtan/farmery-opensource-smart-farm-platform-adcc21) <br/>
 [Libelium - Smart Agriculture](https://www.libelium.com/iot-solutions/smart-agriculture/) <br/>
