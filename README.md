@@ -2,6 +2,8 @@ I am sharing the codes of the login form and information screen I created for my
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![1](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/f86f8b7a-8757-4723-8571-58a35170e644)
+
 _**Akıllı Tarım Otomasyonu**_ için oluşturduğum giriş formunun ve bilgi ekranının kodlarını paylaşıyorum. Zamanla yeni kodlar ekleyeceğim. _**VB.Net**_ dili ve _**MS SQL Server**_ kullandım. Projemi paylaştığım diğer web siteleri ise şunlar:
 
 [VB.Net Kullanarak, Visual Studio’da Veri Tabanı İşlemleri Yapmak](https://medium.com/@melihgul/vb-net-kullanarak-visual-studioda-veri-taban%C4%B1-ms-sql-server-i%CC%87%C5%9Flemleri-yapmak-22f0f5f5d056) 
