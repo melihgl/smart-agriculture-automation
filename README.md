@@ -14,7 +14,7 @@ _**Akıllı Tarım Otomasyonu**_ için oluşturduğum giriş formunun ve bilgi e
 
 **Kodların nasıl çalıştırılacağına dair açıklama:** <br/>
 Projeyi Visual Studio'da çalıştırabilmek için, bilgisayarınızda Visual Studio'nun kaynak kodlarının bulunduğu dosyaya, yukarıdaki VB.Net dosyalarını indirmeniz gerekmektedir. Bu dosya belgelerim klasöründe ya da C'nin içinde olabilir. Veri tabanı dosyalarını da aynı şekilde MS SQL Server'ın kaynak dosyalarına atmalısınız.* <br/>
-*Not: Güvenlik endişelerim sebebiyle şimdilik veri tabanı dosyasını paylaşmıyorum.
+***Not:** Güvenlik endişelerim sebebiyle şimdilik veri tabanı dosyasını paylaşmıyorum.
 
 Proje zamanla ilerleyecektir. İlerledikçe de, ayrıntılı dokümantasyon belgelerini sizlerle paylaşacağım. Henüz, projenin %1'i bile bitmiş değil. Yeteri kadar ilerleyebildiğimde, otomasyon için gerekli olan elektroniği satın alıp _**kendi tarlamda (Edirne - Havsa - Oğulpaşa köyünde)**_ deneyeceğim. Şu günlerde 3. formu hazırlıyorum. Bu formda, TOPRAK, ELEMENT, GÜBRE, HAVA DURUMU, SU, BİTKİ GELİŞİMİ, HASTALIK VERİLERİNİ, veri tabanından çekeceğim. 4. bir form daha oluşturup bu verilerle ilgili sonuçları da orada değerlendirebilirim. Ancak şimdilik 3. forma odaklandım.
 
