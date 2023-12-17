@@ -42,7 +42,7 @@ Bu formda verilerin analizini yapmaya çalışacağım. Şimdilik zihnimde bu ş
 Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaşmıştım. Süreç biraz sezgisel ilerlese de altından kalkabileceğime inancım tam...  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Tablolar arasındaki ilişkilerle ilgili bilgiler aşağıdadır. Bu ilişkiler ya da tablolar zamanla değişebilir. Örneğin Element ve Kullanıcı tablolarını proje ilerlerken oluşturdum. Kullandığım yazılım mimarisi **Code and Fix** olduğundan, proje bu şekilde ilerliyor. Tek başıma yaptığım bir projede en uygun modelin bu olacağını düşündüm. Çünkü benim için önemli olan **en hızlı bir biçimde projeyi çalışır hale getirmektir.** <br/>
+Tablolar arasındaki ilişkilerle ilgili bilgiler aşağıdadır. Bu ilişkiler ya da tablolar zamanla değişebilir. Örneğin Element ve Kullanıcı tablolarını proje ilerlerken oluşturdum. Kullandığım yazılım mimarisi **Code and Fix** olduğundan, proje bu şekilde ilerliyor. Tek başıma yaptığım bir projede en uygun modelin bu olacağını düşündüm. Çünkü bu projede, benim için önemli olan **en hızlı bir biçimde projeyi çalışır hale getirmektir.** İlerde yaptığım projelerde daha farklı modeller kullanabilirim.<br/>
 ![14](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/c4ce700d-be48-4541-92e2-30483380a416)
 ![12](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/e734f039-475a-44ce-9cf7-9db7b0859936)
 ![13](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/8addfaec-7b0e-4982-a3c0-392eb56549dc)
