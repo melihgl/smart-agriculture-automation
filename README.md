@@ -62,7 +62,10 @@ Son olarak, proje boyunca faydalandığım, Trakya Üniversitesi Bilgisayar Prog
 - Sistem Analizi ve Tasarımı
 - Grafik ve Animasyon I (Photoshop) <br/>
 
-Diğer derslerin de katkısı olmuştur. Ancak en çok bu derslerde öğrendiğim bilgileri kullandım.
+Diğer derslerin de katkısı olmuştur. Ancak en çok bu derslerde öğrendiğim bilgileri kullandım. Bunun yanında hem elektronik hem de basılı farklı kaynaklardan da yararlandım. İlerleyen süreçte bu kaynakları da paylaşacağım. Şimdilik akıllı tarımla alakalı üç web sitesini burada belirtebilirim:
+[Farmery - Opensource Smart Farm Platform](https://www.hackster.io/dmtan/farmery-opensource-smart-farm-platform-adcc21)
+[Libelium - Smart Agriculture](https://www.libelium.com/iot-solutions/smart-agriculture/)
+[Fiware - Smart Agrifood](https://www.fiware.org/community/smart-agrifood/)
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
