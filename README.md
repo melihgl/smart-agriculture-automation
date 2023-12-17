@@ -57,6 +57,7 @@ Son olarak, proje boyunca faydalandığım, Trakya Üniversitesi Bilgisayar Prog
 - Yazılım Mimarileri
 - Sistem Analizi ve Tasarımı
 - Grafik ve Animasyon I (Photoshop) <br/>
+ <br/>
 Diğer derslerin de katkısı olmuştur. Ancak en çok bu derslerde öğrendiğim bilgileri kullandım.
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
