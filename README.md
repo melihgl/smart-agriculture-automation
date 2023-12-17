@@ -40,13 +40,12 @@ Bu formda verilerin analizini yapmaya çalışacağım. Şimdilik zihnimde bu ş
 ![Adsiz2](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/4d55c354-29ac-407e-b3b0-e1b641c07922)
 
 Bir süre bu formun kodlarıyla ilgileneceğim. Önceki iki formun kodlarını yukarıda paylaşmıştım. Süreç biraz sezgisel ilerlese de altından kalkabileceğime inancım tam...<br/>
-Kodlamayla kalın, iyi günler, teşekkürler. <br/>
-Melih Gül
 
-Son olarak tabloları arasındaki ilişkilerle ilgili bilgileri de paylaşıyorum:
+Tablolar arasındaki ilişkilerle ilgili bilgiler aşağıdadır. Bu ilişkiler zamanla değişecektir. Örneğin Element ve Kullanıcı tablolarını proje ilerlerken oluşturdum. Kullandığım yazılım mimarisi Code and Fix olduğundan, proje bu şekilde ilerliyor. Tek başıma yaptığım bir projede en uygun modelin bu olacağını düşündüm.
 ![14](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/c4ce700d-be48-4541-92e2-30483380a416)
 ![12](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/e734f039-475a-44ce-9cf7-9db7b0859936)
 ![13](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/8addfaec-7b0e-4982-a3c0-392eb56549dc)
 
-
+Kodlamayla kalın, iyi günler, teşekkürler. <br/>
+Melih Gül
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/>
