@@ -52,7 +52,7 @@ Tablolar arasındaki ilişkilerle ilgili bilgiler aşağıdadır. Bu ilişkiler 
 ![13](https://github.com/melihgl/AkilliTarimOtomasyonu/assets/114761555/8addfaec-7b0e-4982-a3c0-392eb56549dc)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+**KAYNAKLAR**
 Son olarak, proje boyunca faydalandığım, Trakya Üniversitesi Bilgisayar Programcılığı bölümünde almış olduğum dersler:
 - Görsel Programlama I
 - Görsel Programlama II
