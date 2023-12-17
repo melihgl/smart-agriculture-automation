@@ -59,6 +59,6 @@ Son olarak, proje boyunca faydalandığım, Trakya Üniversitesi Bilgisayar Prog
 - Grafik ve Animasyon I (Photoshop)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Kodlamayla kalın, iyi günler, teşekkürler.** <br/>
+**Bu aşamaya gelebilmiş olmamı sağlayan tüm programlama bölümü hocalarıma ve bilgilerimizi paylaştığımız bölümden arkadaşlarıma teşekkür ederim. Kodlamayla kalın, iyi günler, teşekkürler.** <br/>
 **Melih Gül**<br/>
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/>
