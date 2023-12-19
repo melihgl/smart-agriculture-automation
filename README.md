@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmelihgl%2FAkilliTarimOtomasyonu&label=Ziyaret%C3%A7iler&countColor=%23263759&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmelihgl%2FAkilliTarimOtomasyonu&label=Ziyaret%C3%A7iler%20(Visitors)&countColor=%23263759&style=plastic&labelStyle=none)
 
 I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. _**VB.Net**_ language and _**MS SQL Server**_ were used. Thanks.
 
