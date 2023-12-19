@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=melihgl.AkilliTarimOtomasyonu_only=true)
+[![Visits Badge](https://badges.strrl.dev/visits/${melihgl}/${AkilliTarimOtomasyonu})](https://badges.strrl.dev)
 
 I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. _**VB.Net**_ language and _**MS SQL Server**_ were used. Thanks.
 
