@@ -1,5 +1,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmelihgl%2FAkilliTarimOtomasyonu&label=Ziyaret%C3%A7iler%20(Visitors)&countColor=%23263759&style=plastic&labelStyle=none)
 
+[![View AkilliTarimOtomasyonu on GitHub](https://img.shields.io/github/stars/melihgl/AkilliTarimOtomasyonu?color=232323&label=AkilliTarimOtomasyonu&logo=github&labelColor=232323)](https://github.com/melihgl/AkilliTarimOtomasyonu) [![Author melihgl](https://img.shields.io/badge/melihgl-b820f9?labelColor=b820f9&logo=githubsponsors&logoColor=fff)](https://github.com/melihgl) 
+
 I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. _**VB.Net**_ language and _**MS SQL Server**_ were used. Thanks.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
