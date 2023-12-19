@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=melihgl.visitor-badge)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. _**VB.Net**_ language and _**MS SQL Server**_ were used. Thanks.
 
