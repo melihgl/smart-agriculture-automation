@@ -1,5 +1,4 @@
-[![Repo Created Badge](https://badges.strrl.dev/created/${melihgl}/${AkilliTarimOtomasyonu})](https://badges.strrl.dev)
-[![Visits Badge](https://badges.strrl.dev/visits/${melihgl}/${AkilliTarimOtomasyonu})](https://badges.strrl.dev)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fmelihgl%2FAkilliTarimOtomasyonu&label=Ziyaret%C3%A7iler&countColor=%23263759&style=plastic&labelStyle=upper)
 
 I am sharing the codes of the login form and information screen I created for my _**Smart Agriculture project.**_ I will add new codes over time. _**VB.Net**_ language and _**MS SQL Server**_ were used. Thanks.
 
