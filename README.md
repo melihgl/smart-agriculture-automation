@@ -78,6 +78,8 @@ Diğer derslerin de katkısı olmuştur. Ancak en çok bu derslerde öğrendiği
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"/> 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
+
 ## Please Support My Project:
 <a href="https://www.buymeacoffee.com/melihgul" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
